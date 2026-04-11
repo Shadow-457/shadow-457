@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI Linux Distribution<br>🎭 I work Alone in Shadow<br>💬 Ask me about Linux, AI, Kernels and web dev<br>13 yro 🙌
+Founder of Engine
 
 
 ## 🌐 Socials:
