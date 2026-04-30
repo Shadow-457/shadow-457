@@ -1,5 +1,5 @@
 # 💫 About Me:
-Founder of Engine
+Founder of SystrixOS
 
 
 ## 🌐 Socials:
